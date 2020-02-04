@@ -1,4 +1,30 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).<br />
+This is customized version of basic CRA template.<br />
+Template includes SASS, ESLint configured for Airbnb [JS](https://github.com/airbnb/javascript) and [React](https://github.com/airbnb/javascript/tree/master/react) styleguides, Prettier, Redux with thunks, React-router and [Material UI](https://material-ui.com/ru/).<br />
+
+Project includes basic file structure, ESLint and Prettier configs, preconfigured REDUX store, basic routing, Example Component with helpful usEffects and some useful custom hooks from [useHooks](https://usehooks.com/).<br />
+Last available version of [Create React App](https://github.com/facebook/create-react-app) is used.<br />
+
+## Additional packages
+
+Added to default  template:<br />
+
+    "@material-ui/core": "^4.8.2",
+    "@material-ui/icons": "^4.5.1",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-prettier": "^6.9.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "ky": "^0.16.1",
+    "node-sass": "^4.13.0",
+    "normalize.css": "^8.0.1",
+    "prettier": "^1.19.1",
+    "prop-types": "^15.7.2",
+    "query-string": "^6.9.0",
+    "react-redux": "^7.1.3",
+    "react-router-dom": "^5.1.2",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-thunk": "^2.3.0"
 
 ## Available Scripts
 
