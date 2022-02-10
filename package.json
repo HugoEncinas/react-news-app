@@ -10,7 +10,7 @@
     "eslint-config-prettier": "^6.9.0",
     "eslint-plugin-prettier": "^3.1.2",
     "ky": "^0.16.1",
-    "node-sass": "^4.13.0",
+    "node-sass": "^7.0.0",
     "normalize.css": "^8.0.1",
     "prettier": "^1.19.1",
     "prop-types": "^15.7.2",
